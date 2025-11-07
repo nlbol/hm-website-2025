@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://0x7e5.hackmeeting.org.bo/"
+baseURL = "https://0x7e9.hackmeeting.org.bo/"
 languageCode = "en-US"
-title = "Hackmeeting 2021 - Yacuiba"
+title = "Hackmeeting 2025 - Santa Cruz de la Sierra"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -10,18 +10,18 @@ relativeURLs = true
 uglyURLs = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+#googleAnalytics = ""
 
 # Copyright
-copyright = "Hackmeeting 2021 Yacuiba"
+copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Hackmeeting"
-  description = "Hackmeeting 0x7e5 Bolivia: donde los hackers se reúnen para aprender y enseñar. ¡Este noviembre en Yacuiba!"
+  description = "Hackmeeting 0x7e9 Bolivia: donde los hackers se reúnen para aprender y enseñar. ¡Este diciembre en Santa Cruz de la Sierra!"
   # esta imagen creo se quedó cacheada, usar el truco de cambio de nombre
-  shareImage = "images/hm-2021.jpg"
+  shareImage = "images/hm-2025.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
@@ -33,7 +33,7 @@ copyright = "Hackmeeting 2021 Yacuiba"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/hm-2021.jpg"
+      file = "images/hm-2025.png"
       position = "center center"
 
     # Video
@@ -72,12 +72,24 @@ copyright = "Hackmeeting 2021 Yacuiba"
       heading = "Amigos"
 
       [[params.links.list2.link]]
+        text = "FICCT - UAGRM"
+        url = "https://www.ficct.uagrm.edu.bo/"
+
+      [[params.links.list2.link]]
+        text = "Núcleo Linux UAGRM"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "NLBOL"
+        url = "https://nucleolinux.org"
+
+      [[params.links.list2.link]]
         text = "La Otra Red"
         url = "https://laotra.red/"
 
       [[params.links.list2.link]]
-        text = "Hacklab Bolivia"
-        url = "https://www.hacklab.org.bo/"
+        text = "Núcleo GNU/Linux"
+        url = "https://laotra.red/"
 
       [[params.links.list2.link]]
         text = "Hackmeeting"

@@ -4,40 +4,74 @@ title = "CFP"
 
 [&#8592;]({{< ref "_index.md" >}})
 
-> El Call For Papers **finaliza el día viernes 29 de Octubre, a las 23:59** GMT -4. No esperes al último momento :)
+# **Convocatoria abierta: Charlas, Talleres y Actividades – Hackmeeting 0x7E9 Bolivia**
 
-#### Quiero presentar una Charla o Actividad
+Si deseas formar parte del evento como **speaker**, **tallerista** o facilitador de actividades, te invitamos a proponer tu charla o taller mediante el siguiente enlace:
 
-Si deseas formar parte del evento como speaker y compartir conocimiento, puedes proponer un tema o actividad mediante el siguiente [**Formulario de Registro**](https://www.cognitoforms.com/HackmeetingBolivia/CallForPapersHackmeeting0x7e5).
+**[Formulario de Registro](https://mochila.laotra.red/apps/forms/s/TbEDtcdAQD3kYAnFFeYXGZ94)**
+
+El Hackmeeting es un espacio abierto donde compartimos conocimiento, exploramos tecnologías, fomentamos el hacking ético y fortalecemos la comunidad.  
+¡Anímate a participar!
+
+---
+
+## 
+## **Categorías sugeridas para tu propuesta**
+
+### **Técnica**
+- Pentesting  
+- Vulnerabilidades  
+- Desarrollo seguro  
+- Criptografía  
+- Seguridad en la nube  
+- Wireless hacking  
+- Ingeniería social  
+- Demostraciones prácticas  
+
+### **Infraestructura & Redes**
+- Cloud  
+- Redes inalámbricas  
+- Redes mesh  
+- Arquitecturas y servidores  
+- Implementaciones libres  
+
+### **Hardware & Makers**
+- Arduino  
+- Raspberry Pi  
+- Electrónica  
+- Lockpicking  
+- Hardware hacking  
+
+### **Comunidad & Cultura Hacker**
+- Software Libre (FOSS)  
+- Distribuciones GNU/Linux  
+- OpenStreetMap  
+- Wikimedia  
+- Proyectos ciudadanos y comunitarios  
+
+### **Investigación & Futuro**
+- Inteligencia Artificial  
+- Nuevas tecnologías  
+- Innovaciones emergentes  
+
+### **Zona Lúdica**
+- Videojuegos  
+- CTFs  
+- Demos técnicas  
+- Retos y dinámicas  
+
+---
+##
+## **Lugar del evento**
+ UAGRM – FICCT, Módulo 236 (Salón Auditorio)
+
+## **Fecha límite de registro**
+
+> El Call For Speakers **finaliza el día viernes 17 de Noviembre, a las 23:59** GMT -4. No esperes al último momento :)
 
 
-Entre las actividades tenemos: Charlas, Foros, Talleres y Mesas Redondas. Aunque no nos restringimos a ciertos temas, en el pasado se presentaron charlas sobre:
-
-* Hacking y Seguridad Informática
-  * Criptografía
-  * Pentesting
-  * Desarrollo seguro
-  * Demostraciones de vulnerabilidades
-  * Seguridad en la Nube
-  * Ingeniería Social
-  * Hardware Hacking
-  * Wireless Hacking
-* Software Libre
-  * Distribuciones GNU/Linux
-* Cultura Hacker
-* Nuevas tecnologías y herramientas
-  * Inteligencia Artificial
-* Videojuegos
-* Proyectos ciudadano-comunitarios
-  * Redes Libres - Wireless Mesh Networks
-  * OpenStreetMap
-  * Wikimedia
-* Privacidad
-* Más Hacking :)
-  * Arduino
-  * Raspberry Pi
-  * Lockpicking
-
-Gracias por tu apoyo desde Yacuiba, Bolivia!!!
-
+---
+##
+## **¡Sé parte del Hackmeeting 0x7E9 Bolivia!**
+Comparte tu experiencia, proyectos, investigaciones y habilidades con una comunidad apasionada por la tecnología, el hacking y el conocimiento libre.
 [&#8592;]({{< ref "_index.md" >}})
