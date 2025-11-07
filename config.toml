@@ -21,7 +21,7 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
   author = "Hackmeeting"
   description = "Hackmeeting 0x7e9 Bolivia: donde los hackers se reúnen para aprender y enseñar. ¡Este diciembre en Santa Cruz de la Sierra!"
   # esta imagen creo se quedó cacheada, usar el truco de cambio de nombre
-  shareImage = "images/hm-2025.jpg"
+  shareImage = "images/hm-2025.svg"
   twitterHandle = "onepagelove"
 
   # Favicon
@@ -33,7 +33,7 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/hm-2025.png"
+      file = "images/hm-2025.svg"
       position = "center center"
 
     # Video
