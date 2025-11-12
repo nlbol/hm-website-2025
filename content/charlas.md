@@ -6,13 +6,10 @@ title = "Charlas"
 
 Todas las horas están en GMT-4.
 
-### Viernes 19 de Noviembre
+### Viernes 05 de Diciembre
 
 
-### Sábado 20 de Noviembre
-
-
-### Domingo 21 de Noviembre
+### Sábado 06 de Diciembre
 
 
 [&#8592;]({{< ref "_index.md" >}})
