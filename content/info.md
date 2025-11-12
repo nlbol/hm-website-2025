@@ -23,7 +23,7 @@ De hecho, el evento es tan emocionante en persona que es tradición que varias o
 
 ## ¿Quién lo organiza?
 
-Distintas comunidades organizan el evento, colaborando entre sí. Para este año, ¡los organizadores voluntarios somos de la ciudad de Yacuiba!
+Distintas comunidades organizan el evento, colaborando entre sí. Para este año, ¡los organizadores voluntarios somos de la ciudad de Santa Cruz de la Sierra!
 
 Históricamente, el Hackmeeting inició en La Paz, Bolivia en el 2010 de mano del Hacklab "r00thouse", y en futuras ediciones fue tomado por más comunidades en varios departamentos, con la esperanza de llevar al evento por todo el país. Como este evento no fines de lucro, siempre se realiza con la visión de compartir y difundir los conocimientos para el mayor desarrollo y crecimiento de nuestra sociedad.
 
