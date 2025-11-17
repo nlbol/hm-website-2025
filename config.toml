@@ -59,6 +59,10 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
         url = "cfp.html"
 
       [[params.links.list1.link]]
+        text = "CTF"
+        url = "ctf.html"
+
+      [[params.links.list1.link]]
         text = "Charlas"
         url = "charlas.html"
 

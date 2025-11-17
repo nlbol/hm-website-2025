@@ -10,5 +10,5 @@ La **XVI** versión del evento, el **Hackmeeting 0x7e9**, se llevará a cabo los
 
 **¿Te interesa dar una charla? Nuestro [**Call For Speakers**]({{< ref "cfp.md" >}}) está esperando :)**
 
-<!-- | [Info]({{< ref "info.md" >}}) | [CFP]({{< ref "cfp.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | -->
+<!-- | [Info]({{< ref "info.md" >}}) | [CFP]({{< ref "cfp.md" >}}) | [CTF]({{< ref "ctf.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | -->
 
