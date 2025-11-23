@@ -15,7 +15,7 @@ El Hackmeeting 0x7E9 te invita a participar en nuestro **CTF presencial**, una a
 - **📝 Registro presencial:** en la mañana  
 - **🏁 Competencia:** en la tarde  
 - **💻 Requisitos:** llevar laptop + cargador  
-- **📅 Fecha:** domingo **6 de diciembre**
+- **📅 Fecha:** sábado **6 de diciembre**
 
 ---
 
