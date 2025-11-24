@@ -9,6 +9,12 @@ Todas las horas están en GMT-4.
 
 ## **Donaciones**
 
+💖 **Apoya el Hackmeeting Bolivia 0x7E9**
+
+Si quieres apoyar el evento y ayudar a mantener la comunidad, puedes hacer una **donación**.  
+¡Cada aporte cuenta para que más personas disfruten de charlas, talleres y actividades! 🙌
+
+
 {{< raw >}}
 <style>
 /* Imagen pequeña */
