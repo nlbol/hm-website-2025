@@ -77,19 +77,20 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:05 – 10:50</td>
-    <td>Participante 1</td>
-    <td>Tema 1</td>
+    <td></td>
+    <td> </td>
   </tr>
+
   <tr>
     <td>11:00 – 11:45</td>
-    <td>Participante 2</td>
-    <td>Tema 2</td>
+    <td>Sergio Guillen</td>
+    <td>DonkeyVPN, como una misión de GTA Vice City de la vida real se convirtió en un proyecto open source</td>
   </tr>
 
   <tr>
     <td>11:45 – 12:30</td>
-    <td>Participante 3</td>
-    <td>Tema 3</td>
+    <td>Luis Mita</td>
+    <td>Instalare Linux en mi router, si nadie le dio soporte, lo haré yo mismo</td>
   </tr>
 
   <tr>
@@ -100,14 +101,14 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>02:05 – 02:50</td>
-    <td>Luis Mita</td>
-    <td>Instalare Linux en mi router, si nadie le dio soporte, lo haré yo mismo</td>
+    <td>Rudy Flores Cruz</td>
+    <td>Hacking con Buscadores</td>
   </tr>
 
   <tr>
     <td>03:00 – 03:45</td>
-    <td>Sergio Guillen</td>
-    <td>DonkeyVPN, como una misión de GTA Vice City de la vida real se convirtió en un proyecto open source</td>
+    <td>Noemi Ticona</td>
+    <td>Wikipedia la enciclopedia Libre más grande del mundo en Bolivia</td>
   </tr>
 
   <tr>
@@ -225,12 +226,7 @@ Todas las horas están en GMT-4.
     <td>Melany Estevez (Lib)</td>
     <td>Biblioteca Wi-Fi de libros gratis</td>
   </tr>
-    <tr>
-    <td>02:30 - 03:30</td>
-    <td>Rudy Flores Cruz</td>
-    <td>Hacking con Buscadores</td>
-  </tr>
-
+  
 </table>
 
 <!-- ===================== -->
@@ -251,10 +247,10 @@ Todas las horas están en GMT-4.
     <td>IoT aplicado a ganadería y agricultura</td>
   </tr>
 
-   <tr>
-    <td>SIN REGISTRO</td>
-    <td>SIN REGISTRO</td>
-    <td>SIN REGISTRO</td>
+  <tr>
+    <td>02:30 - 03:30</td>
+    <td>Rudy Flores Cruz</td>
+    <td>Hacking con Buscadores</td>
   </tr>
   
 </table>
