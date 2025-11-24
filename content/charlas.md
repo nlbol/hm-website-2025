@@ -6,7 +6,6 @@ title = "Charlas"
 
 Todas las horas están en GMT-4.
 
-
 {{< raw >}}
 <style>
   .hm-title {
