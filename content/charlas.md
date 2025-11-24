@@ -223,7 +223,7 @@ Todas las horas están en GMT-4.
   </tr>
 
    <tr>
-    <td>00:00 - 00:00</td>
+    <td>SIN REGISTRO</td>
     <td>SIN REGISTRO</td>
     <td>SIN REGISTRO</td>
   </tr>
