@@ -71,7 +71,30 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:00 – 10:05</td>
-    <td>Introducción</td>
+    <td>Bienvenida</td>
+    <td>HACKMEETING BOLIVIA 0X7E9</td>
+  </tr>
+
+  <tr>
+    <td>10:05 – 10:50</td>
+    <td>Participante 1</td>
+    <td>Tema 1</td>
+  </tr>
+  <tr>
+    <td>11:00 – 11:45</td>
+    <td>Participante 2</td>
+    <td>Tema 2</td>
+  </tr>
+
+  <tr>
+    <td>11:45 – 12:30</td>
+    <td>Participante 3</td>
+    <td>Tema 3</td>
+  </tr>
+
+  <tr>
+    <td>-</td>
+    <td>-</td>
     <td>-</td>
   </tr>
 
@@ -140,6 +163,12 @@ Todas las horas están en GMT-4.
     <td>11:45 – 12:30</td>
     <td>Jhoseph Caceres Aramayo</td>
     <td>El poder de la terminal: más allá del clic</td>
+  </tr>
+
+ <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 
   <tr>
