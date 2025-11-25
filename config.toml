@@ -67,6 +67,10 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
         url = "charlas.html"
 
       [[params.links.list1.link]]
+        text = "Mapa"
+        url = "mapa.html"
+
+      [[params.links.list1.link]]
         text = "Donaciones"
         url = "donaciones.html"
 

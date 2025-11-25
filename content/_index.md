@@ -13,5 +13,5 @@ La **XVI** versión del evento, el **Hackmeeting 0x7e9**, se llevará a cabo los
 ### Lugar: [UAGRM - FICCT - Modulo 236 - Salón Auditorio](https://www.openstreetmap.org/#map=19/-17.776210/-63.194996)
 
 
-<!-- | [Info]({{< ref "info.md" >}}) | [CFP]({{< ref "cfp.md" >}}) | [CTF]({{< ref "ctf.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | [Charlas]({{< ref "donaciones.md" >}}) | -->
+<!-- | [Info]({{< ref "info.md" >}}) | [CFP]({{< ref "cfp.md" >}}) | [CTF]({{< ref "ctf.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | [Charlas]({{< ref "charlas.md" >}}) | [Charlas]({{< ref "donaciones.md" >}}) | -->
 
