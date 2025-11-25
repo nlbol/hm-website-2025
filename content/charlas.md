@@ -77,8 +77,8 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:05 – 10:50</td>
-    <td></td>
-    <td> </td>
+    <td>Wilson Mamani Flores (0w3nw1ls0n)</td>
+    <td>De DevOps a DevSecOps: Integrando Seguridad en el Día a Día del Desarrollo</td>
   </tr>
 
   <tr>
@@ -129,11 +129,6 @@ Todas las horas están en GMT-4.
     <td>Aprende las reglas como un profesional para que puedas romperlas como un artista</td>
   </tr>
 
-  <tr>
-    <td>06:15 – 07:00</td>
-    <td>Wilson Mamani Flores (0w3nw1ls0n)</td>
-    <td>De DevOps a DevSecOps: Integrando Seguridad en el Día a Día del Desarrollo</td>
-  </tr>
 </table>
 
 <!-- ===================== -->
