@@ -101,8 +101,8 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>02:05 – 02:50</td>
-    <td>Rudy Flores Cruz</td>
-    <td>Hacking con Buscadores</td>
+    <td>Jhoseph Caceres Aramayo</td>
+    <td>El poder de la terminal: más allá del clic</td>
   </tr>
 
   <tr>
@@ -157,8 +157,8 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>11:45 – 12:30</td>
-    <td>Jhoseph Caceres Aramayo</td>
-    <td>El poder de la terminal: más allá del clic</td>
+    <td>Rudy Flores Cruz</td>
+    <td>Hacking con buscadores</td>
   </tr>
 
  <tr>
@@ -247,7 +247,32 @@ Todas las horas están en GMT-4.
     <td>Rudy Flores Cruz</td>
     <td>Hacking con Buscadores</td>
   </tr>
-  
+</table> 
+
+
+<!-- ===================== -->
+<!-- Capture To Flag -->
+<!-- ===================== -->
+<div class="hm-section-title">TORNEO CAPTURE TO FLAG – Sábado 6 de diciembre</div>
+
+<table class="hm">
+  <tr>
+    <th>Horario</th>
+    <th>Nombre</th>
+    <th>Título</th>
+  </tr>
+
+   <tr>
+    <td>10:00 - 12:30</td>
+    <td>REGISTRO</td>
+    <td>Salón auditorio</td>
+  </tr>
+
+  <tr>
+    <td>04:00 - 06:00</td>
+    <td>TORNEO CTF</td>
+    <td>Salón auditorio</td>
+  </tr>
 </table>
 
 {{< /raw >}}
