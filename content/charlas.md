@@ -145,8 +145,8 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:15 – 11:00</td>
-    <td>Juan Fajardo (Soy Bett0)</td>
-    <td>Receta: Atacar Windows desde Windows</td>
+    <td>Ibar Mario Vásquez Ramos</td>
+    <td>De un simple clic, a un gran riesgo. “Comprometiendo la privacidad de la víctima en un solo clic - Anatomía técnica de un enlace malicioso”</td>
   </tr>
 
   <tr>
@@ -199,8 +199,8 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>06:35 – 07:15</td>
-    <td>Ibar Mario Vásquez Ramos</td>
-    <td>De un simple clic, a un gran riesgo. “Comprometiendo la privacidad de la víctima en un solo clic - Anatomía técnica de un enlace malicioso”</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
