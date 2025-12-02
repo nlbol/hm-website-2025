@@ -199,8 +199,14 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>06:35 – 07:15</td>
-    <td></td>
-    <td></td>
+    <td>Ing. Mario Vásquez Luna</td>
+    <td>Principios de la Inteligencia Artificial</td>
+  </tr>
+
+  <tr>
+    <td>07:15 – 07:30</td>
+    <td>Ing. Mario Vásquez Luna</td>
+    <td>Interpretación musical: “No volveré a querer”</td>
   </tr>
 </table>
 
