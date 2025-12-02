@@ -36,12 +36,12 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
       file = "images/hm-2025.svg"
       position = "center center"
 
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+#    # Video
+#    [params.visual.video]
+#      enable = true
+#      #mute = false
+#      file = "videos/0x7e9.mp4"
+#      position = "center center"
 
   # Links
   #
@@ -57,6 +57,10 @@ copyright = "Hackmeeting 2025 Santa Cruz de la Sierra"
       [[params.links.list1.link]]
         text = "CFP"
         url = "cfp.html"
+
+      [[params.links.list1.link]]
+        text = "Difusión"
+        url = "difusion.html"
 
       [[params.links.list1.link]]
         text = "CTF"

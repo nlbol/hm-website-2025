@@ -145,7 +145,7 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:15 – 11:00</td>
-    <td>Ibar Mario Vásquez Ramos</td>
+    <td>MSc. Ing. Ibar M Vásquez R</td>
     <td>De un simple clic, a un gran riesgo. “Comprometiendo la privacidad de la víctima en un solo clic - Anatomía técnica de un enlace malicioso”</td>
   </tr>
 
@@ -257,9 +257,9 @@ Todas las horas están en GMT-4.
 
 
 <!-- ===================== -->
-<!-- Capture To Flag -->
+<!-- Capture THE Flag -->
 <!-- ===================== -->
-<div class="hm-section-title">TORNEO CAPTURE TO FLAG – Sábado 6 de diciembre</div>
+<div class="hm-section-title">TORNEO CAPTURE THE FLAG – Sábado 6 de diciembre</div>
 
 <table class="hm">
   <tr>
