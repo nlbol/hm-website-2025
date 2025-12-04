@@ -77,19 +77,19 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:05 – 10:50</td>
-    <td>Wilson Mamani Flores (0w3nw1ls0n)</td>
+    <td>Wilson Mamani Flores (0w3nw1ls0n) [CBBA]</td>
     <td>De DevOps a DevSecOps: Integrando Seguridad en el Día a Día del Desarrollo</td>
   </tr>
 
   <tr>
     <td>11:00 – 11:45</td>
-    <td>Sergio Guillen</td>
+    <td>Sergio Guillen [LP]</td>
     <td>DonkeyVPN, como una misión de GTA Vice City de la vida real se convirtió en un proyecto open source</td>
   </tr>
 
   <tr>
     <td>11:45 – 12:30</td>
-    <td>Luis Mita</td>
+    <td>Luis Mita [LP]</td>
     <td>Instalare Linux en mi router, si nadie le dio soporte, lo haré yo mismo</td>
   </tr>
 
@@ -101,31 +101,31 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>02:05 – 02:50</td>
-    <td>Jhoseph Caceres Aramayo</td>
+    <td>Jhoseph Caceres Aramayo [CBBA]</td>
     <td>El poder de la terminal: más allá del clic</td>
   </tr>
 
   <tr>
     <td>03:00 – 03:45</td>
-    <td>Noemi Ticona</td>
+    <td>Noemi Ticona [SC]</td>
     <td>Wikipedia la enciclopedia Libre más grande del mundo en Bolivia</td>
   </tr>
 
   <tr>
     <td>04:00 – 04:45</td>
-    <td>Duglas Apaza</td>
+    <td>Duglas Apaza [LP]</td>
     <td>Códigos limpios, decisiones difíciles</td>
   </tr>
 
   <tr>
     <td>04:45 – 05:30</td>
-    <td>Anjhelo Melendres Sillerico</td>
+    <td>Anjhelo Melendres Sillerico [LP]</td>
     <td>Red Team / Comprometiendo la seguridad de las oficinas.</td>
   </tr>
 
   <tr>
     <td>05:30 – 06:15</td>
-    <td>Lorddemon</td>
+    <td>Lorddemon [CBBA]</td>
     <td>Aprende las reglas como un profesional para que puedas romperlas como un artista</td>
   </tr>
 
@@ -145,19 +145,19 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:15 – 11:00</td>
-    <td>MSc. Ing. Ibar M Vásquez R</td>
+    <td>MSc. Ing. Ibar M Vásquez R [LP]</td>
     <td>De un simple clic, a un gran riesgo. “Comprometiendo la privacidad de la víctima en un solo clic - Anatomía técnica de un enlace malicioso”</td>
   </tr>
 
   <tr>
     <td>11:00 – 11:45</td>
-    <td>Neil Graneros Flores</td>
+    <td>Neil Graneros Flores [LP]</td>
     <td>No rompas el repo: flujos y buenas practicas en git</td>
   </tr>
 
   <tr>
     <td>11:45 – 12:30</td>
-    <td>Rudy Flores Cruz</td>
+    <td>Rudy Flores Cruz [SC]</td>
     <td>Hacking con buscadores</td>
   </tr>
 
@@ -169,43 +169,43 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>02:05 – 02:55</td>
-    <td>Joshua Brizuela Carreño</td>
+    <td>Joshua Brizuela Carreño [CL]</td>
     <td>Arduino en contextos escolares populares en Chile</td>
   </tr>
 
   <tr>
     <td>03:00 – 03:45</td>
-    <td>Ing. Jared Lopez Leaño</td>
+    <td>Ing. Jared Lopez Leaño [SC]</td>
     <td>Software Libre: ¿Un Castillo Inexpugnable? Análisis de Seguridad y el Caso del Backdoor en XZ</td>
   </tr>
 
   <tr>
     <td>04:00 – 04:55</td>
-    <td>Jaime Iván Mendoza Ribera (Jivan)</td>
+    <td>Jaime Iván Mendoza Ribera (Jivan) [SC]</td>
     <td>Cuando lo que ves, no es lo que ejecuta: explotando fallos de renderizado y procesamiento de caracteres</td>
   </tr>
 
   <tr>
     <td>04:55 – 05:50</td>
-    <td>Claudia Ureña</td>
+    <td>Claudia Ureña [CBBA]</td>
     <td>¿Un Gadget Inocente? Descubre Cómo la Ingeniería Social Avanza Tu Vida</td>
   </tr>
 
   <tr>
     <td>05:50 – 06:35</td>
-    <td>Neil Graneros Flores</td>
+    <td>Neil Graneros Flores [LP]</td>
     <td>Más allá de los números: Taguette, una alternativa libre para el análisis cualitativo de datos</td>
   </tr>
 
   <tr>
     <td>06:35 – 07:15</td>
-    <td>Ing. Mario Vásquez Luna</td>
+    <td>Ing. Mario Vásquez Luna [LP]</td>
     <td>Principios de la Inteligencia Artificial</td>
   </tr>
 
   <tr>
     <td>07:15 – 07:30</td>
-    <td>Ing. Mario Vásquez Luna</td>
+    <td>Ing. Mario Vásquez Luna [LP]</td>
     <td>Interpretación musical: “No volveré a querer”</td>
   </tr>
 </table>
@@ -224,7 +224,7 @@ Todas las horas están en GMT-4.
 
   <tr>
     <td>10:30 - 11:30</td>
-    <td>Melany Estevez (Lib)</td>
+    <td>Melany Estevez (Lib) [LP]</td>
     <td>Biblioteca Wi-Fi de libros gratis</td>
   </tr>
   
@@ -244,13 +244,13 @@ Todas las horas están en GMT-4.
 
    <tr>
     <td>10:30 - 11:30</td>
-    <td>Xavier Sebastian Vaca Ordoñez</td>
+    <td>Xavier Sebastian Vaca Ordoñez [SC]</td>
     <td>IoT aplicado a ganadería y agricultura</td>
   </tr>
 
   <tr>
     <td>02:30 - 03:30</td>
-    <td>Rudy Flores Cruz</td>
+    <td>Rudy Flores Cruz [SC]</td>
     <td>Hacking con Buscadores</td>
   </tr>
 </table> 
