@@ -223,7 +223,7 @@ Todas las horas están en GMT-4.
   </tr>
 
   <tr>
-    <td>10:30 - 11:30</td>
+    <td>14:30 - 15:30</td>
     <td>Melany Estevez (Lib) [LP]</td>
     <td>Biblioteca Wi-Fi de libros gratis</td>
   </tr>
